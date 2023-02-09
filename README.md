@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm MAANE AYMANE</h1>
 <h3 align="center">Data scientist ; Interested in data analysis, modeling and machine learning.</h3>
-<p align="left"> < img src="https://www.linkedin.com/in/aymane-maane-888970115/overlay/background-image/">
 - 🌱 I’m currently learning **Data analysis and Machine learning**
 
 <h3 align="left">Connect with me:</h3>
