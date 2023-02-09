@@ -1,4 +1,3 @@
-<img align="right" alt="Coding" width="400" src="https://gfycat.com/blissfulscentedaustraliancattledog">
 
 <h1 align="center">Hi 👋, I'm MAANE AYMANE</h1>
 <h3 align="center">Data scientist ; Interested in data analysis, modeling and machine learning.</h3>
