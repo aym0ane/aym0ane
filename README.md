@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm MAANE AYMANE</h1>
 <h3 align="center">Data scientist ; Interested in data analysis, modeling and machine learning.</h3>
-- 🌱 I’m currently learning **Data analysis and Machine learning**
+- 🌱 I’m currently a Data analysis and Machine learning Engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
