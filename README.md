@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm MAANE AYMANE</h1>
-<h3 align="center">Data scientist ; Interested in data analysis, modeling and machine learning.</h3>
-- 🌱 I’m currently a Data analysis and Machine learning Engineer 
-  <h3 align="center"> Apache Spark, Python, SQL, Data Pipelines, Apache Airflow, DBT, GCP.</h3>
+<h3 align="center"></h3>
+- 🌱 I’m currently a Data engineer / Data scientist  
+  <h3 align="center"> Python, SQL, Apache Spark, Apache Airflow, AWS, GCP.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aymane-maane-888970115/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymane-maane-888970115/" height="30" width="40" /></a>
 </p>
-<p>  ------------------------------------------------------------------------------------------------------------------------------------------------------------- </p>
+<h3 align="center">___________________________________________________________________________________________</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aym0ane&show_icons=true&locale=en&layout=compact" alt="aym0ane" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aym0ane&show_icons=true&locale=en" alt="aym0ane" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aym0ane&" alt="aym0ane" /></p>
