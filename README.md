@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm MAANE AYMANE</h1>
 <h3 align="center"></h3>
-- 👨‍💻 I’m currently a Data engineer / Data scientist  
+- 👨‍💻 I’m currently a Data engineer / Data scientist   
+<p>- I have developed a strong foundation in dimensional and relational data modeling, data transformation, and database administration. I possess extensive experience in testing and managing data transformations , automating complex data processing tasks, and orchestrating them to optimize performance. My expertise also includes designing and implementing client-facing data analysis dashboards that provide valuable insights to key stakeholders. With my solid technical background, analytical mindset, and passion for solving complex problems, I am confident in my ability to contribute to any organization looking to leverage data for competitive advantage.</p>
   <h3 align="center"> Python, SQL, Apache Spark, Apache Airflow, AWS, GCP.</h3>
 
 
