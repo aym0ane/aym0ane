@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MAANE AYMANE</h1>
 <h3 align="center"></h3>
 - 👨‍💻 I’m currently a Data engineer / Data scientist   
-<p>- I have developed a strong foundation in dimensional and relational data modeling, data transformation, and database administration. I possess extensive experience in testing and managing data transformations , automating complex data processing tasks, and orchestrating them to optimize performance. My expertise also includes designing and implementing client-facing data analysis dashboards that provide valuable insights to key stakeholders. With my solid technical background, analytical mindset, and passion for solving complex problems, I am confident in my ability to contribute to any organization looking to leverage data for competitive advantage.</p>
+<p>- I have developed a strong foundation in ETL pipelines and automation, database management, data warehousing, data analysis, visualization, Data quality assurance, data mining, and machine learning/deep learning. I excel in critical thinking and problem-solving, utilizing my expertise in Python and SQL to tackle complex challenges. Additionally, I am proficient in tools such as Apache Airflow, Apache Spark, Databricks, Snowflake, AWS, GCP, SSIS, Apache Nifi, ELK, and Power BI. With my diverse skill set and hands-on experience, I am confident in my ability to optimize data processing, ensure data quality, and provide valuable insights to drive competitive advantage for any organization.</p>
   <h3 align="center"> Python, SQL, Apache Spark, Apache Airflow, AWS, GCP.</h3>
 
 
