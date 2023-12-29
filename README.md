@@ -15,4 +15,4 @@ I am a passionate Data Consultant with a State engineer's degree in Data and kno
 
 
 <h3 align="left">👨🏻‍💻 Technical skills: </h3>
- Python, SQL, Spark, GCP, AWS, Airflow, AI, Databases, and batch/stream processing.
+ Python, SQL, Power BI, Spark, GCP, AWS, Azure,  Airflow, AI, Databases, and batch/stream processing.
