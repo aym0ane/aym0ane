@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MAANE AYMANE</h1>
 <h3 align="center"></h3>
   
-<p> <strong> Data and Analytics Engineer </strong> || A Data-Driven Swiss Army Knife with a Passion for insights
+<p> <strong> Data and AI Engineer </strong> || A Data-Driven Swiss Army Knife with a Passion for insights
 
 I am a passionate Data Consultant with a State engineer's degree in Data and knowledge Engineering. I bring a diverse skillset across data engineering, data analysis, and data science, empowering businesses to unlock the power of their data</p>
 
