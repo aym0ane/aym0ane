@@ -4,7 +4,7 @@
   
 <p> <strong> Data and AI Engineer </strong> || A Data-Driven Swiss Army Knife with a Passion for insights
 
-I am a passionate Data Consultant with a State engineer's degree in Data and knowledge Engineering. I bring a diverse skillset across data engineering, data analysis, and data science, empowering businesses to unlock the power of their data</p>
+Data and AI Engineer, Passionate about designing, building, and implementing scalable solutions to drive business growth.</p>
 
 <h3 align="center">Connect with me Here : </h3>
 <p align="center">
